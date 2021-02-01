@@ -43,6 +43,10 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Deploying your project
 
+https://juansacok.github.io/profile-card-component 
+
+Here you can see the final result
+
 As mentioned above, there are a number of ways to host your project for free. We recommend using [Vercel](https://bit.ly/fem-vercel) as it's an amazing service and extremely simple to get set up with. If you'd like to use Vercel, here are some steps to follow to get started:
 
 1. [Sign up to Vercel](https://bit.ly/fem-vercel-signup) and go through the onboarding flow, ensuring your GitHub account is connected by using their [Vercel for GitHub](https://vercel.com/docs/v2/git-integrations/vercel-for-github) integration.
